@@ -1,0 +1,14 @@
+.image-item-ill {
+  width: 360px;
+  height: 300px;
+}
+.gallery {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 42px;
+  column-gap: 24px;
+  margin: 0;
+}
+.image-item {
+}
