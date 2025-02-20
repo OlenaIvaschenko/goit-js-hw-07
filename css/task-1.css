@@ -1,5 +1,5 @@
 ul {
-  list-style-type: none; /* Прибирає маркери */
+  list-style-type: none;
   padding-inline-start: 0px;
 }
 
@@ -13,7 +13,7 @@ ul {
   width: 440px;
   height: 888px;
   background-color: #fff;
-  margin: 0; /* Видаляє зовнішні відступи */
+  margin: 0;
 }
 .item {
   background-color: #f6f6fe;
@@ -24,7 +24,7 @@ ul {
 .category {
   margin-block-start: 0em;
   margin-block-end: 0em;
-  font-family: var(--font-family);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 24px;
   line-height: 133%;
@@ -39,7 +39,7 @@ ul {
   gap: 8px;
 }
 .subelements {
-  font-family: var(--font-family);
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
